@@ -1,4 +1,4 @@
 *.log
 Tmp/
 .env
-
+!error.log
